@@ -3,18 +3,18 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>SQL</b>
-  -[Library Management Database](https://github.com/Icklin/Library-Management)
-  -[Finance Database](https://github.com/Icklin/Finance)
+  - [Library Management Database](https://github.com/Icklin/Library-Management)
+  - [Finance Database](https://github.com/Icklin/Finance)
   
 - <b>Cyber Security</b>
-  -[Cyber Security Log using SQLite](https://github.com/Icklin/sqlite3)
+  - [Cyber Security Log using SQLite](https://github.com/Icklin/sqlite3)
  
 - <b>Mobile Applications</b>
 
 - <b>Web development</b>
-  -[Portfolio website I developed](https://github.com/Icklin/Portfolio)
-  -[PCOptimizer](https://github.com/Icklin/PCOptimizer)
-  -[PWManager](https://github.com/Icklin/PWmanager1)
+  - [Portfolio website I developed](https://github.com/Icklin/Portfolio)
+  - [PCOptimizer](https://github.com/Icklin/PCOptimizer)
+  - [PWManager](https://github.com/Icklin/PWmanager1)
 
 <h2> 🤳 Connect with me:</h2>
 
