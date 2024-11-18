@@ -8,13 +8,13 @@
   
 - <b>Cyber Security</b>
   - [Cyber Security Log using SQLite](https://github.com/Icklin/sqlite3)
+  - [PCOptimizer](https://github.com/Icklin/PCOptimizer)
+  - [PWManager](https://github.com/Icklin/PWmanager1)
  
 - <b>Mobile Applications</b>
 
 - <b>Web development</b>
   - [Portfolio website I developed](https://github.com/Icklin/Portfolio)
-  - [PCOptimizer](https://github.com/Icklin/PCOptimizer)
-  - [PWManager](https://github.com/Icklin/PWmanager1)
 
 <h2> 🤳 Connect with me:</h2>
 
